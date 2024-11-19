@@ -1,0 +1,57 @@
+Gene name	ID	Gene description	Process	Link
+DXS	Cz02g35280	1-deoxy-D-xylulose 5-phosphate synthase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g35280
+DXR	Cz07g19130	1-deoxy-D-xylulose 5-phosphate reductoisomerase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz07g19130
+CMS	Cz12g10090	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz12g10090
+CMK	Cz11g24270	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz11g24270
+MCS	Cz02g10180	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g10180
+Putative MCS	Cz02g10190	Ribonuclease H-like		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g10190
+Putative MCS	Cz13g04230	Ribonuclease H-like		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g04230
+Putative MCS	Cz15g07030	Ribonuclease H-like		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz15g07030
+Putative MCS	Cz15g07020	Ribonuclease H-like, Homeodomain-like, DUF659, NADH dehydrogenase [ubiquinone]1 alpha subcomplex assembly factor 3		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz15g07020
+Putative MCS	Cz13g04240	Ribonuclease H-like, DUF659, NADH dehydrogenase [ubiquinone]1 alpha subcomplex assembly factor 3		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g04240
+Putative MCS	Cz01g28030	Ribonuclease H-like, DUF659		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz01g28030
+Putative MCS	Cz13g01050	Ribonuclease H-like, DUF659		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g01050
+MCS	Cz02g11050	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g11050
+MCS	Cz02g11060	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g11060
+HDS	Cz13g08020	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g08020
+HDR	Cz05g23010	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz05g23010
+AACT	Cz04g25080	Acetoacetyl-CoA thiolase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz04g25080
+HCS	Cz19g02060	Hydroxymethylglutaryl-CoA synthase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz19g02060
+IPPI1	Cz03g02150	Isopentenyl-diphosphate delta-isomerase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz03g02150
+IPPI2	Cz08g23110	Isopentenyl-diphosphate delta-isomerase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz08g23110
+IPPI3	Cz03g10110	Isopentenyl-diphosphate delta-isomerase	IPP/DMAPP synthesis	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz03g10110
+GPPS	Cz02g31110	Geranyl diphosphate synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g31110
+GPPS	Cz05g00040	All-trans-nonaprenyl-diphosphate synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz05g00040
+FPPS	Cz01g03190	Farnesyl diphosphate synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz01g03190
+GGPPS	Cz02g19200	Geranylgeranyl diphosphate synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g19200
+PSY	Cz05g32220	Phytoene synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz05g32220
+PSY	Cz05g32230	Phytoene synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz05g32230
+PDS	Cz02g32280	Phytoene desaturase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz02g32280
+PDS	Cz07g17250	Phytoene desaturase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz07g17250
+Putative PDS	Cz07g17240	Dehydrosqualene desaturase		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz07g17250
+PDS	Cz08g09110	Phytoene desaturase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz08g09110
+Putative PDS	Cz08g09100	Ophio-amino-acid oxidase		https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz08g09100
+ZDS	Cz10g17010	ζ-carotene desaturase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz10g17010
+ZISO	Cz10g17130	ζ-carotene isomerase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz10g17130
+CRTISO1	Cz16g01210	Carotenoid isomerase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz16g01210
+CRTISO2	Cz12g03260	Carotenoid isomerase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz12g03260
+CRTISO3	Cz14g22040	Carotenoid isomerase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz14g22040
+LCYe	Cz09g18310	Lycopene ε-cyclase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz09g18310
+LCYb	Cz12g10170	Lycopene β-cyclase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz12g10170
+LCYb	Cz07g07080	Lycopene β-cyclase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz07g07080
+LCYb	Cz13g15030	Lycopene β-cyclase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g15030
+CYP97A1	Cz13g16110	Cytochrome P450 β-hydroxylase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g16110
+CYP97A2	Cz09g14130	Cytochrome P450 β-hydroxylase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz09g14130
+CYP97C	Cz09g07100	Cytochrome P450 ε-hydroxylase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz09g07100
+CHYb	Cz12g16080	β-carotenoid hydroxylase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz12g16080
+BKT1	Cz13g13100	β-carotenoid ketolase/oxygenase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz13g13100
+BKT2	Cz04g11250	β-carotenoid ketolase/oxygenase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz04g11250
+ZEP	Cz07g30060	Zeaxanthin epoxidase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz07g30060
+VDE	Cz06g02070	Violaxanthin de-epoxidase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz06g02070
+VDE	Cz06g01120	Violaxanthin de-epoxidase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz06g01120
+NXS	Cz15g04070	Neoxanthin synthase	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz15g04070
+NXS	Cz01g02290	ABSCISIC ACID (ABA)-DEFICIENT 4 PROTEIN (DUF4281 domain as in NXS)	IPP/DMAPP to carotenoids	https://phytozome-next.jgi.doe.gov/report/gene/Czofingiensis_v5_2_3_2/Cz01g02290
+MK	Mp4g13410			
+MPK	Mp8g14400			
+MPPD	Mp3g01340			
+HCR	Mp2g07980			
